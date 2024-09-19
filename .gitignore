@@ -1,0 +1,5 @@
+#NODE
+/node_modules
+#JSON
+package-log.json
+package.json
